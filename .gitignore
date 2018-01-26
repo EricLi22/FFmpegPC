@@ -1,0 +1,3 @@
+bin/ffmpeg_aac*
+src/ffmpeg_aac/Debug
+src/ffmpeg_aac/ffmpeg_aac*
